@@ -1,0 +1,2 @@
+# React.js-Django
+ "Explore a simple yet powerful web application that demonstrates CRUD operations using React.js for the front end and Django for the back end. This project showcases user-friendly interfaces for creating, reading, updating, and deleting data. Ideal for beginners, it illustrates the seamless integration of RESTful APIs, enabling efficient data management and enhancing full-stack development skills."
